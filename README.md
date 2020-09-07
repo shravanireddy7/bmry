@@ -32,3 +32,11 @@ If you want to run test from IDE perform following steps:
 1. Import the project as a java project in Eclipse.
 2. Run or Debug class SignupTestsT1.java or SignupTestsT2.java as a Junit test.
 
+
+### About Tests
+Used Junit annotations to make code more readable and simple
+
+Provided description of each variable, method, class in each test file clearly
+
+Useed BaseClass to run common methods i.e. loading the page where the test needs to start and quitting the page after tests are run.
+
